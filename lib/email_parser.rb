@@ -15,5 +15,4 @@ end
     end
     .flatten.uniq
   end
-
 end
