@@ -12,7 +12,7 @@ end
 def parse
   # emails.split(/[\s,]+/).uniq
   # emails.split(/ |, |,/).uniq
-  
+  emails.split(",").join.split.uniq
 end
 
 end 
