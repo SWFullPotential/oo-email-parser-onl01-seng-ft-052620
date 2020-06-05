@@ -8,5 +8,10 @@ class EmailAddressParser
     @emails = emails    
   end
   
+  def parse
+    puts  
+  end
+  
+  
   
 end
